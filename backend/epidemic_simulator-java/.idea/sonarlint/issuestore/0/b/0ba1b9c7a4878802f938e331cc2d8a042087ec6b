@@ -1,0 +1,46 @@
+
+…
+java:S6813 "BRemove this field injection and use constructor injection instead.(êæÄŞ8Ş¡„‡2J$047899bc-a634-473e-9346-208a1cef690c
+…
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞ8ß¡„‡2J$103aa275-b726-45e2-8d97-4af99db1e892
+…
+java:S6813&"BRemove this field injection and use constructor injection instead.(êæÄŞ8ß¡„‡2J$fbffb884-bee7-4722-a46a-32bc6e71f742
+…
+java:S6813)"BRemove this field injection and use constructor injection instead.(êæÄŞ8ß¡„‡2J$5812c6b9-b7d4-428a-a351-171349518c52
+~	java:S1251"<This block of commented-out lines of code should be removed.(­ƒ½ş8è¡„‡2J$8bb64e78-bac8-4bb9-829f-93c62335a3cb
+ƒ	java:S125D"<This block of commented-out lines of code should be removed.(µË£ÿÿÿÿÿ8è¡„‡2J$72ecb809-41b9-4c05-a39d-049075cc8feb
+r	java:S106P"+Replace this use of System.out by a logger.(éÃ¿šıÿÿÿÿ8ë¡„‡2J$50ce9217-4e06-4023-8ef0-ddc6b30ab4b9
+ƒ	java:S125R"<This block of commented-out lines of code should be removed.(ÉÒÇçıÿÿÿÿ8î¡„‡2J$698e0d4a-bc25-422b-8e4c-d797bd64c1c0
+l
+java:S1128"$Remove this unused import 'mpi.MPI'.(øŠñ²øÿÿÿÿ8ï¡„‡2J$908265c6-b5b6-4713-85bf-6114afc3e41e
+Q
+java:S1128"/Remove this unused import 'org.example.domain'.(Ş÷ÃÅùÿÿÿÿ8ı¼À‡2
+
+java:S1128	"<Remove this unused import 'org.example.service.AreaService'.(ú­ü8ğ¡„‡2J$0d951f62-3588-4a74-98e7-a68453e4abc2
+…
+java:S1128
+"BRemove this unused import 'org.example.service.PopulationService'.(Ì¢ñÃ8ğ¡„‡2J$b4029b20-9596-415c-90f3-09f8bfba1edc
+…
+java:S1128"BRemove this unused import 'org.example.service.SimulationService'.(øÁš©8ñ¡„‡2J$c8e8ea5d-54ea-44ef-a522-36183a1a196c
+
+java:S1128"GRemove this unused import 'org.example.validators.SimulationValidator'.(¥«õùşÿÿÿÿ8ñ¡„‡2J$81fc5d57-4c50-49e3-ac78-4bdb69dbbf0d
+ 
+java:S1128"]Remove this unused import 'org.springframework.security.core.userdetails.UserDetailsService'.(¶…¥à8ñ¡„‡2J$4ac5cb33-73e0-4bad-874a-eced8e2381ca
+‡
+java:S1128"?Remove this unused import 'javax.xml.bind.ValidationException'.(Š±ËŠøÿÿÿÿ8ñ¡„‡2J$c7af82e5-7950-45fb-b164-89f07502789c
+v
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8ñ¡„‡2J$d0c9ea5e-b139-4fff-8d03-c9443f1c8a34
+u
+java:S1128"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/8ñ¡„‡2J$ca142992-33a7-45d3-a3b2-1150d8f644c5
+w
+java:S1128"/Remove this unused import 'java.io.FileReader'.(Â¡¢äşÿÿÿÿ8ñ¡„‡2J$799f3d6e-bc9c-40bc-9649-f91d0b50961a
+x
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ñ¡„‡2J$75f9fcfd-a294-42fa-ad66-3181d1f65a04
+s
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8ñ¡„‡2J$b56ac021-0915-4f5e-83c2-498efcde5c7d
+s
+java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯8ó¡„‡2J$ed9bd1c6-d6ad-4924-a630-bd5a9b05f1ec
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ó¡„‡2J$9d5b9e01-e483-4d84-9158-01b42237cd7b
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ó¡„‡2J$a5f7ca04-7b16-4578-98f9-a116d31d0d49

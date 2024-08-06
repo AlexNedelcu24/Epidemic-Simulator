@@ -1,0 +1,13 @@
+
+n
+java:S1452"&Remove usage of generic wildcard type.(Î™¯Òşÿÿÿÿ8ÎŠÜİü1J$1e0d6dcd-300a-4dbc-8c48-edf18d03e8b4
+Œ
+java:S1128"IRemove this unused import 'org.example.controllers.requests.UserRequest'.(ö„×8Ëİİü1J$313d44bd-dfc8-4fb6-89f4-fedc13462689
+‚
+java:S1128":Remove this unused import 'org.example.domain.Simulation'.(¢¡ãùÿÿÿÿ8Ëİİü1J$684a4b26-993e-4969-9ea5-bccab7b701a7
+Š
+java:S1128"BRemove this unused import 'org.example.repository.PageRepository'.(ŠÉ´Ùÿÿÿÿÿ8Ëİİü1J$4873ee14-c9fb-4560-95b5-b0c25673717d
+Y
+java:S1128	"<Remove this unused import 'org.example.service.PageService'.(üæ£å8‰ú÷ÿ1
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ëİİü1J$e5f26fd1-025f-4fa0-8fda-a4382a3968ca

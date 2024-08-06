@@ -1,0 +1,8 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Ş˜¡8œïÍõü1J$fb3793ab-f656-44d3-9bb1-4a31c37d9380
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8­‘àü1J$00ba5fdd-f20b-47fd-91e4-be82f75bff90
+^
+java:S1128"<Remove this unused import 'org.example.domain.Intervention'.(¯ÓÆ±øÿÿÿÿ8ƒä½äÿ1
+W
+java:S1128":Remove this unused import 'org.example.domain.Population'.(£°ä8ƒä½äÿ1

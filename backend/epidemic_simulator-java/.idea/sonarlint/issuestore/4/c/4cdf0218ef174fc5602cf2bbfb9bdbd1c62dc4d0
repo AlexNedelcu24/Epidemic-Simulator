@@ -1,0 +1,39 @@
+
+	java:S112‚"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8‹“έφό1J$23d8e896-3375-4f09-955e-046d09abd9f0
+
+java:S1192 "SDefine a constant instead of duplicating this literal "Simulation is over" 3 times.(¬Τνϊÿÿÿÿ8“έφό1J$09cffa86-75b0-4d67-a0b8-d351acc27790
+
+java:S4488/"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(•Ξοκ8Α“έφό1J$7b74f9ec-3f29-404a-b304-501b6beef015
+~	java:S1256"<This block of commented-out lines of code should be removed.(µΎΡ΄8ΝΎΠ‡2J$7acc688a-694a-4a78-9181-63b2a558609f
+ƒ	java:S125A"<This block of commented-out lines of code should be removed.(€¨ϊÿÿÿÿ8ι“‹Ο‡2J$49facb09-ffe5-42a9-867f-7ca0092c0f99
+’
+java:S4488_"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ΣσΚϊÿÿÿÿ8Ν“έφό1J$b53d72a2-a44e-4fe2-8c49-44e7cbe3c205
+~	java:S125l"<This block of commented-out lines of code should be removed.(Ηθ¶8Ο“έφό1J$fb66380e-6b1f-4a83-ae61-a7e95c32b1db
+„	java:S125†"<This block of commented-out lines of code should be removed.(”αΓχψÿÿÿÿ8Σ“έφό1J$18b0f8f8-4b3a-4dda-b150-9bf87130d643
+o
+java:S1452"&Remove usage of generic wildcard type.(ΘΉβόÿÿÿÿ8Χ“έφό1J$6524e5d0-fb37-44b8-a7e5-0e8f521b98d0
+
+java:S4488™"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(«άν8Χ“έφό1J$8d3c0004-399b-45b4-a1a5-7893817330f4
+„
+java:S1854»"@Remove this useless assignment to local variable "intervention".(ί’ιΐ8®•ΏΠ‡2J$1e050144-c66b-4133-a21f-39362bdafd00
+‰
+java:S1854ΐ"@Remove this useless assignment to local variable "intervention".(ΝΆ±Εϊÿÿÿÿ8®•ΏΠ‡2J$4da51cff-6bda-41a6-874a-7cf04936f2ab
+
+java:S4488®"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ζ€›8Ϋ“έφό1J$11c4b8df-6a3d-478c-9753-9b4a95dd07c5
+u
+java:S1481»"1Remove this unused "intervention" local variable.(ί’ιΐ8°•ΏΠ‡2J$589d42b2-af7d-48de-9103-7bd20b2c6b04
+z
+java:S1481ΐ"1Remove this unused "intervention" local variable.(ΝΆ±Εϊÿÿÿÿ8±•ΏΠ‡2J$5bdc3733-fb08-4386-911e-2023e429b28a
+“
+java:S4488Τ"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ϋυÿόÿÿÿÿ8ή“έφό1J$b3d8435e-0d19-441d-9373-1fccea343b3e
+	java:S125Ν"<This block of commented-out lines of code should be removed.(•Ώ„Ϊ8ΒΆγÿ1J$ffdb9af7-4a5f-4be1-9b40-2d51e2f72ad8
+j
+java:S1452χ"&Remove usage of generic wildcard type.(Δ©εε8ΰ“έφό1J$2603f617-272e-43cc-b91c-1b277cd4f84d
+“
+java:S4488φ"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(„Λ¤¥ψÿÿÿÿ8α“έφό1J$65b7950e-b85f-4d64-aa2e-2b1435b35b31
+“
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ρΝΔύÿÿÿÿ8β“έφό1J$3410d7a8-386f-445b-ad24-6403bec3c60b
+o
+java:S1452"&Remove usage of generic wildcard type.(Ήσ‡ωÿÿÿÿ8ς•ίφό1J$509252d4-58c2-4e0f-a356-19084fa7af77
+“
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(εγ½Ψύÿÿÿÿ8ε“έφό1J$4148033c-96fe-41fc-b788-0f04b55370ee

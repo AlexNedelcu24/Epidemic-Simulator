@@ -1,0 +1,78 @@
+plugins {
+    id 'java'
+    id 'org.springframework.boot' version '2.6.5'
+    id 'io.spring.dependency-management' version '1.0.11.RELEASE'
+}
+
+group = 'org.example'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+    flatDir {
+        dirs 'C:/mpj/lib'
+    }
+}
+
+dependencies {
+    testImplementation platform('org.junit:junit-bom:5.9.1')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+
+    // database connection
+    implementation 'com.microsoft.sqlserver:mssql-jdbc:9.4.0.jre11'
+    implementation 'mysql:mysql-connector-java:8.0.28'
+    implementation 'org.xerial:sqlite-jdbc:3.36.0.3'
+
+
+    // hibernate
+    implementation 'org.hibernate:hibernate-core:5.6.3.Final'
+    implementation 'org.hibernate:hibernate-entitymanager:5.4.15.Final'
+
+    // getters and setters
+    implementation 'org.projectlombok:lombok:1.18.22'
+    compileOnly 'org.projectlombok:lombok:1.18.22'
+    annotationProcessor 'org.projectlombok:lombok:1.18.22'
+
+    // spring
+    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+    implementation 'org.springframework.boot:spring-boot-starter-logging'
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+    implementation 'org.springframework.boot:spring-boot-starter-security'
+    implementation 'org.springframework.boot:spring-boot-starter-mail'
+
+    //jwt
+    implementation 'io.jsonwebtoken:jjwt-api:0.11.2'
+    implementation 'io.jsonwebtoken:jjwt-impl:0.11.2'
+    implementation 'io.jsonwebtoken:jjwt-jackson:0.11.2'
+
+
+    implementation name: 'mpi'
+    implementation name: 'commons-cli-1.2'
+    implementation name: 'commons-codec-1.8'
+    implementation name: 'commons-io-2.4'
+    implementation name: 'daemon'
+    implementation name: 'daemonmanager'
+    implementation name: 'hybdev'
+   // implementation name: 'javax.servlet'
+    implementation name: 'loader1'
+    implementation name: 'loader2'
+    implementation name: 'log4j-1.2.11'
+    implementation name: 'mpiExp'
+    implementation name: 'mpj'
+    implementation name: 'mpjbuf'
+    implementation name: 'mpjdev'
+    implementation name: 'mxdev'
+    implementation name: 'niodev'
+    implementation name: 'runtimecommon'
+    implementation name: 'smpdev'
+    implementation name: 'starter'
+    implementation name: 'tools'
+    implementation name: 'xdev'
+}
+
+
+
+test {
+    useJUnitPlatform()
+}

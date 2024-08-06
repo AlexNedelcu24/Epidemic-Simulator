@@ -1,0 +1,43 @@
+{
+  "name": "epidemic-simulator",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@craco/craco": "^7.0.0-alpha.0",
+    "axios": "^1.6.8",
+    "chart.js": "^4.4.3",
+    "leaflet": "^1.9.4",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0",
+    "react-leaflet": "^4.2.1",
+    "react-router-dom": "^5.2.0",
+    "react-toastify": "^10.0.5"
+  },
+  "scripts": {
+    "start": "cross-env NODE_OPTIONS=--max-old-space-size=4096 craco start",
+    "build": "craco build",
+    "test": "craco test --env=jsdom",
+    "eject": "craco eject"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "react-scripts": "^5.0.1"
+  }
+}

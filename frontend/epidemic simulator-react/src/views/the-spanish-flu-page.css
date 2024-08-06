@@ -1,0 +1,55 @@
+.the-spanish-flu-page-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.the-spanish-flu-page-container1 {
+  flex: 1;
+  width: 100%;
+  height: var(--dl-size-size-maxwidth);
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("/spanish-flu-1918-1400h.jpg");
+}
+.the-spanish-flu-page-container2 {
+  width: 85%;
+  height: 800px;
+  display: flex;
+  align-items: center;
+  border-radius: 70px;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: rgba(0,0,0,0.8);
+}
+.the-spanish-flu-page-text {
+  color: var(--dl-color-gray-white);
+  margin-top: var(--dl-space-space-fourunits);
+  line-height: 1.15;
+}
+.the-spanish-flu-page-text1 {
+  color: var(--dl-color-gray-white);
+  margin-left: var(--dl-space-space-sixunits);
+  margin-right: var(--dl-space-space-sixunits);
+  margin-bottom: 0px;
+}
+.the-spanish-flu-page-text3 {
+  color: var(--dl-color-gray-white);
+}
+.the-spanish-flu-page-text6 {
+  color: var(--dl-color-gray-white);
+}
+.the-spanish-flu-page-iframe {
+  width: 600px;
+  height: 320px;
+  margin-bottom: var(--dl-space-space-sixunits);
+}
+.the-spanish-flu-page-placeholder {
+  width: 600px;
+  height: 320px;
+  margin-bottom: var(--dl-space-space-sixunits);
+}

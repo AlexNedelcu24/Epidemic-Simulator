@@ -1,0 +1,44 @@
+
+Ž	java:S112²"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Žè¿Ð‡2J$e4d7c93e-4830-4689-bc25-f9c997aa6e81
+w
+java:S1066d"/Merge this if statement with the enclosing one.(øíÿ¥üÿÿÿÿ8ï¤¡Æ‡2J$d9ba0843-7c54-4ea9-a273-4e0cfc6a29d4
+x
+java:S1066ú"/Merge this if statement with the enclosing one.(‰£¯Øþÿÿÿÿ8ï¤¡Æ‡2J$1984240c-9ae4-4527-8a83-990edf7d7573
+q
+java:S5411Ð"(Use a primitive boolean expression here.(«×¡ûüÿÿÿÿ8¬ÃöÍ‡2J$de3f7629-d622-47c7-9a08-72d98c6f8398
+q
+java:S5411å"(Use a primitive boolean expression here.(æ°ò¾úÿÿÿÿ8ð¤¡Æ‡2J$a6f86b0e-7bb2-4995-b6ad-bbe09755f2a7
+š
+java:S3776E"RRefactor this method to reduce its Cognitive Complexity from 91 to the 15 allowed.(Ü¸Ïßûÿÿÿÿ8š¦¡Æ‡2J$2a912cea-f959-466f-a187-2ecfb579c73c
+`
+java:S2119K"Save and re-use this "Random".(¼ÝÅf8œ¦¡Æ‡2J$7f33f0c8-0594-4a69-93da-8f0a38ee0f8e
+~	java:S125Š"<This block of commented-out lines of code should be removed.(Ü–Q8¡¦¡Æ‡2J$64de5768-83a8-4ac2-af4a-91615658a35c
+s	java:S106¯"+Replace this use of System.out by a logger.(ê‹í¦øÿÿÿÿ8¢¦¡Æ‡2J$e722c1bd-9b48-434b-96b2-068495495230
+„	java:S125×"<This block of commented-out lines of code should be removed.(âÖüÿÿÿÿ8¥¦¡Æ‡2J$4f4ba3ff-875b-4d00-ad49-29249ced54f2
+s	java:S106Ý"+Replace this use of System.out by a logger.(ÞžÒ—üÿÿÿÿ8¥¦¡Æ‡2J$a08b156e-1c3a-438b-ae47-bdfb98c3bb10
+s	java:S106â"+Replace this use of System.out by a logger.(ÞžÒ—üÿÿÿÿ8²¦¡Æ‡2J$e035d2c2-74c5-46ae-9ab2-8b87a39984e9
+„	java:S125¡"<This block of commented-out lines of code should be removed.(šÞ‡žýÿÿÿÿ8¨¦¡Æ‡2J$f61dbb2e-44c1-419b-9325-95bbd2f0e9bf
+	java:S125ª"<This block of commented-out lines of code should be removed.(ËÙÞ8©¦¡Æ‡2J$6f55401a-0537-49e8-a900-4917f13380e9
+e
+java:S2111´"!Use "BigDecimal.valueOf" instead.(ñÒä¸8ª¦¡Æ‡2J$429744ba-5521-4213-9dec-939aac0b2885
+›
+java:S3776×"RRefactor this method to reduce its Cognitive Complexity from 58 to the 15 allowed.(ØÄ˜šþÿÿÿÿ8­¦¡Æ‡2J$b1a8ac86-ece8-440b-aac6-e354a3f2f7cb
+„	java:S125Ï"<This block of commented-out lines of code should be removed.(»‹õÓúÿÿÿÿ8­¦¡Æ‡2J$19e70b4b-181a-451c-8c35-29595468ee16
+a
+java:S2119Û"Save and re-use this "Random".(¼ÝÅf8­¦¡Æ‡2J$a747c946-f4b1-4899-9fb5-1fc0daf67658
+¢
+java:S2142®"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(üŸ´Â8®¦¡Æ‡2J$ce2e0b5f-764c-43bc-a80c-f9c431eaa5f5
+~	java:S125"<This block of commented-out lines of code should be removed.(Ü–Q8Ç¼ÜÎ‡2J$116696f7-1915-4b6e-8764-3439c7b2d043
+s	java:S106¥"+Replace this use of System.out by a logger.(ê‹í¦øÿÿÿÿ8ƒµŠÐ‡2J$64f5a436-6824-4849-b151-d8dab798008e
+y
+java:S1481ª"0Remove this unused "currentUser" local variable.(Œéï¢þÿÿÿÿ8³¦¡Æ‡2J$3ee89ead-a91a-448e-9c46-51237497a464
+Œ
+java:S1128"DRemove this unused import 'org.example.repository.ResultRepository'.(™¥µÿÿÿÿÿ8Î¢ßá‡2J$0b4ff442-0f37-4449-87ba-8aa789561239
+‹
+java:S1128"HRemove this unused import 'org.example.repository.SimulationRepository'.(×ÊÙƒ8Î¢ßá‡2J$d4b9a8d1-1f47-4141-91a4-edda8258df0c
+„
+java:S1128"BRemove this unused import 'org.example.repository.UserRepository'.(ª†„_8Î¢ßá‡2J$92747281-f9ee-4a4d-899a-0b82cdb7b34a
+h
+java:S1128" Remove this unused import 'mpi'.(º”öþÿÿÿÿ8Î¢ßá‡2J$bcd69d9a-cd7a-48c0-889f-502a47829e69
+
+java:S6541E"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 116 to 64, Complexity from 24 to 14, Nesting Level from 7 to 2, Number of Variables from 31 to 6.(Ü¸Ïßûÿÿÿÿ8¶¦¡Æ‡2J$e1931d4b-5684-427c-9f4d-a241659373d8

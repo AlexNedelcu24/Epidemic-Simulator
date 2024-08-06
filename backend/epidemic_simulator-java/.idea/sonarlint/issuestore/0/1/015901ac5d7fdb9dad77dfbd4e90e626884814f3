@@ -1,0 +1,22 @@
+
+š
+java:S3776*"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(¼È¶Òÿÿÿÿÿ8©’ÉÞü1J$4b277861-dbbf-4593-9a10-a2c9838092f2
+`
+java:S21195"Save and re-use this "Random".(¼ÝÅf8¯’ÉÞü1J$96f762b7-fafd-4967-bf77-abddffccd132
+ƒ	java:S125f"<This block of commented-out lines of code should be removed.(Þ¾Áÿÿÿÿÿ8ÑŒ‰÷ÿ1J$c84c6ce8-8c8a-42d3-8402-d11751d606e2
+ƒ	java:S125w"<This block of commented-out lines of code should be removed.(â ûÿÿÿÿ8ÒŒ‰÷ÿ1J$1351fd49-017c-4f9f-b996-737024687489
+	java:S125Ž"<This block of commented-out lines of code should be removed.(¤Ðíõ8ÕŒ‰÷ÿ1J$27c22ac7-98b0-4ffb-9ff6-7548799056a4
+m	java:S106“"+Replace this use of System.out by a logger.(Ú“ƒY8ÕŒ‰÷ÿ1J$34316ce1-37c5-465b-8d29-b527a654801c
+m	java:S106¸"+Replace this use of System.out by a logger.(Ú“ƒY8¿¿º‹†2J$db81fb98-fd0a-472b-953f-c4c65c9ecc3d
+„	java:S125Å"<This block of commented-out lines of code should be removed.(Öôõîøÿÿÿÿ8ÖŒ‰÷ÿ1J$995bc4ec-6ce5-4391-a456-811c98a0d544
+„	java:S125Ë"<This block of commented-out lines of code should be removed.(Á«Þšúÿÿÿÿ8ÖŒ‰÷ÿ1J$06e8bec4-fe56-4cc6-b7e4-c6393f2a8d5e
+Š
+java:S1128"BRemove this unused import 'org.example.repository.AreaRepository'.(µýš©úÿÿÿÿ8¿‘Ü††2J$ddece2b8-7c2c-407a-95ee-a0668fe01ca2
+
+java:S1128"HRemove this unused import 'org.example.repository.PopulationRepository'.(ÐÀàþÿÿÿÿÿ8¿‘Ü††2J$b42d3621-b395-43bb-b1a7-276a990c1a78
+‹
+java:S1128"HRemove this unused import 'org.example.repository.SimulationRepository'.(×ÊÙƒ8À‘Ü††2J$e9c752e0-7a2d-4c58-a676-2617fc07ecd1
+›
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡ž¸Îùÿÿÿÿ8À‘Ü††2J$de88d5a1-e0a0-4393-888e-ff2cb56fd7ae
+
+java:S6541*"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 101 to 64, Complexity from 24 to 14, Nesting Level from 3 to 2, Number of Variables from 54 to 6.(¼È¶Òÿÿÿÿÿ8ÚŒ‰÷ÿ1J$efd01de6-3e44-4b18-9244-17cab639cf09
